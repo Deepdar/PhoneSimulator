@@ -137,6 +137,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="os.cpp" />
     <ClCompile Include="phone.cpp" />
+    <ClCompile Include="phone_factory.cpp" />
     <ClCompile Include="smart_phone.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

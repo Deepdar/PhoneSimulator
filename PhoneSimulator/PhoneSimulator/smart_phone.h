@@ -13,7 +13,6 @@ public:
 	}
 	void powerOn() {
 		cout << "smartphone power on" << endl;
-		pOs = 0;
 		pOs->startUp();
 	}
 };
